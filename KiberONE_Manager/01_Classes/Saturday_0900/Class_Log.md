@@ -7,6 +7,20 @@
 
 ## History Log
 
+### 20.12.2025 - Python: World Simulation & Recovery
+- **Module:** Python
+- **Topic:** Relative Movement Logic & File Recovery
+- **Teacher:** Sergio
+- **Activities:**
+  - **Project Recovery:** Successfully restored corrupted projects, teaching critical file management and resilience.
+  - **Logic Concept:** Implemented "World Moving Around Player" - a complex illusion of movement using relative coordinates.
+  - **Logic Deep Dive:** Analyzed `if` statements to control environment scrolling; students showed strong grasp of this abstract concept.
+  - **Special Event:** Holiday visit from Knecht Ruprecht and KiberMarkt session.
+- **Outcome/Notes:**
+  - High resilience shown by students in debugging and recovery.
+  - Strong conceptual understanding of relative movement vs. absolute positioning.
+  - Very productive session despite the holiday interruptions.
+
 ### 13.12.2025 - Python: Flappy Bird (Physics & Input)
 - **Module:** Python
 - **Topic:** Game Loop, Gravity, and User Input
